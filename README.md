@@ -26,5 +26,5 @@ This app allows users to Create, Read, Update and Delete (CRUD) short articles a
     3. Open blog folder
     4. Right click anywhere within the folder click Git bash here
     5. Type 'rails s' to create a server on your pc. 
-    6. Open browser and type 'localhost:3000' to view the blog
+    6. Open browser and type 'http://localhost:3000' to view the blog
 
