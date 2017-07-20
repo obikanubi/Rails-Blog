@@ -1,6 +1,6 @@
 # Simple Blog
 
-This is a blogsite I created to learn MVP and CRUD concepts in Ruby and Rails. Having two week's worth of experience on Ruby, creating this simple web application was made possible by following the step by step guide on [RailsGuides](http://guides.rubyonrails.org/getting_started.htm)
+This is a blogsite I created to learn MVP and CRUD concepts in Ruby and Rails. Having two week's worth of experience on Ruby, creating this simple web application was made possible by following the step by step guide on [RailsGuides](http://guides.rubyonrails.org/getting_started.html).
 
 This app allows users to Create, Read, Update and Delete (CRUD) short articles and comments within the blog.
 ### How to Use
