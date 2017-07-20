@@ -21,8 +21,8 @@ This app allows users to Create, Read, Update and Delete (CRUD) short articles a
 * Git Bash [download](https://github.com/git-for-windows/git/releases/download/v2.13.3.windows.1/Git-2.13.3-64-bit.exe)
 * Bundler ersion 1.13.7 (included in rails download)
 ### Installation
-    1. Download and install the required files above.
-    2. Clone this resository into your hard drive.
+    1. Clone this resository into your hard drive.
+    2. Download and install the required files above.
     3. Open blog folder
     4. Right click anywhere within the folder click Git bash here
     5. Type 'rails s' to create a server on your pc. 
